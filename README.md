@@ -1,4 +1,4 @@
-## Project Report: Web Document Crawler and Query Processor
+## Web Document Crawler and Query Processor
 
 ### Abstract
 The Web Document Crawler and Query Processor project aims to develop a system for crawling web documents, constructing an inverted index, and providing a query processing interface. The objectives include implementing a Scrapy-based crawler to download web documents, building a TF-IDF-based indexer for search indexing, and creating a Flask-based processor for handling free text queries. The next steps involve testing the system, deploying it for production use, and exploring potential enhancements such as query expansion and distributed crawling.
